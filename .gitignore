@@ -1,0 +1,4 @@
+# Comentado temporariamente:
+# node_modules/
+# target/
+git add --force .
